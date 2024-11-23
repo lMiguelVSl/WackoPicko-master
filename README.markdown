@@ -123,3 +123,4 @@ The value parameter is vulnerable.
 https://localhost/admin/login.php  
 There is a default username/password combination of admin/admin.  
 
+test1
